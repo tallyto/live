@@ -24,7 +24,6 @@ public class Aula {
         seminario1.setAlunos(alunos);
         seminario1.setLocal(local);
         seminario1.setProfessor(professor1);
-
         seminario1.imprime();
 
         Seminario seminario2 = new Seminario("Orientação a Objetos em Java");
